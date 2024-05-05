@@ -15,6 +15,6 @@ I'm passionate about coding and love working with various programming languages 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 # Leetcode:
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)](https://leetcode.com/Shiva_Vignesh_Kannan)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Shiva_Vignesh_Kannan?theme=dark)](https://leetcode.com/Shiva_Vignesh_Kannan)
 # 📊 GitHub Stats:
 ![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivavigneshkannan-k&show_icons=true&theme=gruvbox)
