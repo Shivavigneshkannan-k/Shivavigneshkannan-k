@@ -17,4 +17,4 @@ I'm passionate about coding and love working with various programming languages 
 # Leetcode:
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shiva_Vignesh_Kannan?ext=contest)](https://leetcode.com/Shiva_Vignesh_Kannan)
 # 📊 GitHub Stats:
-![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivavigneshkannan-k&show)
+![Shiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shivavigneshkannan-k&show icons=true&theme=gruvbox)
