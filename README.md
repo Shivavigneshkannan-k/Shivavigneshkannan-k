@@ -1,5 +1,5 @@
 # Hi,I'm Shiva:
-Welcome to my GitHub profile. I'm Shiva, a first-year Computer Science and Engineering student at Chennai Institute of Technology.<br>
+Welcome to my GitHub profile. I'm Shiva, a second-year Computer Science and Engineering student at Chennai Institute of Technology.<br>
 I'm passionate about coding and love working with various programming languages and technologies.
 
 
