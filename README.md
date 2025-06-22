@@ -1,4 +1,4 @@
-## வணக்கம், Hello, नमस्ते, 안녕하세요, こんにちは 
+## 🙏வணக்கம், Hello, नमस्ते, 안녕하세요, こんにちは 
      I'm Shivavigneshkannan
 
 A pre-final year **Computer Science and Engineering** student at **Chennai Institute of Technology**.  
@@ -42,27 +42,6 @@ Got some free time? Let's connect and talk tech 😄
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-## 🚀 Projects
-
-### **Smart Complaint & Feedback System** – Feb 2025
-
-- **Tech Stack**: Node.js, Express, MongoDB, React, Tailwind
-- A platform for students and faculty to log complaints and give feedback, with role-based dashboards.
-
-### **NetflixGPT** – Dec 2024
-
-- **Tech Stack**: React, Tailwind, OpenAI API
-- A Netflix-style interface powered by AI, suggesting shows/movies using GPT-based prompts.
-
-### **YouTube Clone** – Jan 2025
-
-- **Tech Stack**: React, Redux, YouTube API
-- Fully responsive YouTube clone with search, recommendations, and channel pages.
-
----
-
 ## 🧠 LeetCode Profile
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shiva_Vignesh_Kannan?ext=contest)](https://leetcode.com/Shiva_Vignesh_Kannan)
@@ -83,8 +62,7 @@ Got some free time? Let's connect and talk tech 😄
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivavigneshkannan-k&theme=dark&hide_border=true)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shivavigneshkannan-k)](https://git.io/streak-stats)
 ---
 
 ## 🏆 GitHub Trophies
